@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<wrapper>
+<wraaper>
     <corpo codigo="1">
-        <texto1>
-        Segundo ele devemos fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.
+    <titulo>Parcerias e Meios de implementação</titulo>
+    <texto1>Segundo ele devemos fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.
             O objetivo das parcerias e meios de implementação é revitalizar a aliança mundial para o desenvolvimento sustentável, pois essas alianças são fundamentais para realizar o resto dos objetivos de desenvolvimento sustentável.
-            Essas alianças constroem os objetivos comuns que dão prioridade para as pessoas e ao planeta, afinal um mundo sem fome, sem pobreza e com uso sustentável dos recursos naturais é um mundo que favorece tanto os países desenvolvidos quanto aos países em desenvolvimento e os menos desenvolvidos.
-        </texto1>
+            Essas alianças constroem os objetivos comuns que dão prioridade para as pessoas e ao planeta, afinal um mundo sem fome, sem pobreza e com uso sustentável dos recursos naturais é um mundo que favorece tanto os países desenvolvidos quanto aos países em desenvolvimento e os menos desenvolvidos.</texto1>
+            
     </corpo>
-</wrapper>
+</wraaper>
